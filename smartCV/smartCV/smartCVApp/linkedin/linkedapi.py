@@ -2,8 +2,8 @@ from smartCV.smartCVApp.models import AccessToken
 import oauth2 as oauth
 import urlparse
 
-consumer_key    =   't0pz5wwnm1t8'
-consumer_secret =   'oorAXeY5bYy8llUw'
+consumer_key    =   'xxxx'
+consumer_secret =   'xxxx'
 request_token_url = 'https://api.linkedin.com/uas/oauth/requestToken?scope=r_fullprofile+r_emailaddress+r_contactinfo'
 access_token_url =  'https://api.linkedin.com/uas/oauth/accessToken'
 authorize_url =     'https://api.linkedin.com/uas/oauth/authorize'
